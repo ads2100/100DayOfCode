@@ -9,9 +9,9 @@ test()
 document.write("<br>")
 
 // second example
-function test1(){
+function $test1(){
   let name = "Shahad"
   document.write("My name is"+ " " + name)
 }
 
-test1()
+$test1()
