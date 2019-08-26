@@ -1,5 +1,6 @@
 # 100DayOfCode
-This repo is for my 100DayOfCoding Challenge to learn Javascript with Saudi Initiative for Developers.
+This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developers and my aim here is to learn about Javascript.
+- <b>day 1</b>: prints the contents of the current window.
 - <b>day 1</b>: prints the contents of the current window.
 - <b>day 2</b>: writing one or more than line of comments.
 - <b>day 3</b>: declaring variable and learn about the types of vaiables.
