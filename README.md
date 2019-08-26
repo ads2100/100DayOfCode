@@ -5,4 +5,4 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 3</b>: declaring variable and learn about the types of vaiables.
 - <b>day 4 and 5</b>: how to print a sentence in two lines and how to add variable in the same sentence.
 - <b>day 6</b>: learn about the identifiers.
-- <b>day 7</b>: learn about the reserved Words.
+- <b>day 7</b>: learn about the reserved words.
