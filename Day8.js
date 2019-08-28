@@ -10,3 +10,4 @@ document.write("<br>");
 result = a !== "18" ;
 
 document.write("the result of 18 is not equal value or not equal type to '18' is :" + " " + result ) ;
+console.log(result)
