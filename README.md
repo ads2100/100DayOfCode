@@ -14,3 +14,8 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 9</b>: Learn about javascript types of data & numbers.
 - <b>day 10</b>: Learn about dates and times functions.
 - <b>day 11 and 12</b>: Using alert and console.log() function.
+
+
+<b>Week 3 :</b>
+- <b>day 13</b>: Strings methods.
+- <b>day 14</b>: Variable Scope & Operator.
