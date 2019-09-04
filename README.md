@@ -19,3 +19,5 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 <b>Week 3 :</b>
 - <b>day 13</b>: Strings methods.
 - <b>day 14</b>: Variable Scope & Operator.
+- <b>day 15</b>: If conditionals statments.
+- <b>day 16</b>: else if statments.
