@@ -1,16 +1,14 @@
-var n = 4 ;
+var Today = new Date();
+var ThisDay = Today.getDay();
 
-if (n === 1) { 
-  document.write("You have 1 new message.");
-} 
-else if (n === 2) { 
-    document.write("You have 2 new messages.");
-} 
-else if (n === "4") { 
-    document.write("You have 4 new messages.");
- }
-else { 
-     document.write("You have no new messages.");
+if (ThisDay===0){
+  alert("Have a good Sunday");
+}
+else if (ThisDay >= 5 && ThisDay <= 7){
+  alert("Have a good weekend")
+}
+else {
+  alert("Have a good day")
 }
 
 

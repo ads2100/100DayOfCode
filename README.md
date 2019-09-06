@@ -21,3 +21,13 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 14</b>: Variable Scope & Operator.
 - <b>day 15</b>: If conditionals statments.
 - <b>day 16</b>: else if statments.
+- <b>day 17</b>: Switch statments.
+- <b>day 18 and 19</b>: How to turn switch code to if statement.
+
+<b>Week 4 :</b>
+- <b>day 20</b>:
+- <b>day 21</b>: 
+- <b>day 22</b>:
+- <b>day 23</b>: 
+- <b>day 24</b>: 
+- <b>day 25 and 26</b>: 
