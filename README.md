@@ -25,8 +25,8 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 18 and 19</b>: How to turn switch code to if statement.
 
 <b>Week 4 :</b>
-- <b>day 20</b>:
-- <b>day 21</b>: 
+- <b>day 20</b>: The While Loop.
+- <b>day 21</b>: Do/While Loop.
 - <b>day 22</b>:
 - <b>day 23</b>: 
 - <b>day 24</b>: 
