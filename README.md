@@ -1,5 +1,5 @@
 # 100DayOfCode
-This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developers and my aim here is to learn about Javascript.
+This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developers and my aim here is to learn Javascript.
 
 <b>Week 1 :</b>
 - <b>day 1</b>: Prints the contents in the screen.
