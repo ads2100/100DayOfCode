@@ -1,5 +1,5 @@
 # 100DayOfCode
-This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developers and my aim here is to learn about Javascript.
+This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developers and my aim here is to learn Javascript.
 
 <b>Week 1 :</b>
 - <b>day 1</b>: Prints the contents in the screen.
@@ -27,7 +27,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 <b>Week 4 :</b>
 - <b>day 20</b>: The While Loop.
 - <b>day 21</b>: Do/While Loop.
-- <b>day 22</b>:
+- <b>day 22</b>: For loop.
 - <b>day 23</b>: 
 - <b>day 24</b>: 
 - <b>day 25 and 26</b>: 

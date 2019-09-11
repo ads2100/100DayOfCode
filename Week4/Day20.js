@@ -1,7 +1,6 @@
-var text = "";
 var Num = 0;
 while (Num <= 10) {
-  document.write("The number is " + Num +"<br>" );
+  document.write("The number is : " + Num +"<br>" );
   Num++;
 }
 
