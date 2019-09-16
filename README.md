@@ -5,7 +5,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 1</b>: Prints the contents in the screen.
 - <b>day 2</b>: Write comments.
 - <b>day 3</b>: Declaring variable.
-- <b>day 4 and 5</b>: How to print a sentence in two lines and how to add variable in the same sentence.
+- <b>day 4 and 5</b>: How to print a sentence in two lines and add variable.
 
 <b>Week 2 :</b>
 - <b>day 6</b>: Creating and naming the identifiers.
@@ -22,7 +22,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 15</b>: If conditionals statments.
 - <b>day 16</b>: else if statments.
 - <b>day 17</b>: Switch statments.
-- <b>day 18 and 19</b>: How to turn switch code to if statement.
+- <b>day 18 and 19</b>: How to turn switch statement to if statement.
 
 <b>Week 4 :</b>
 - <b>day 20</b>: The While Loop.
