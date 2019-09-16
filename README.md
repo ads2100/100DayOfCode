@@ -28,6 +28,15 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 20</b>: The While Loop.
 - <b>day 21</b>: Do/While Loop.
 - <b>day 22</b>: For loop.
-- <b>day 23</b>: 
-- <b>day 24</b>: 
-- <b>day 25 and 26</b>: 
+- <b>day 23</b>: Learn about jumps.
+- <b>day 24</b>: Continue learn about jumps.
+- <b>day 25 and 26</b>: Write for loop inside it two while loop, the first one use label and break and the second one use label and counting.
+
+
+<b>Week 5 :</b>
+- <b>day 27</b>: 
+- <b>day 28</b>: 
+- <b>day 29</b>: 
+- <b>day 30</b>: 
+- <b>day 31</b>: 
+- <b>day 32 and 33</b>:
