@@ -34,9 +34,9 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 
 
 <b>Week 5 :</b>
-- <b>day 27</b>: Learn about Jump - return 
-- <b>day 28</b>: Learn about jump - throw
-- <b>day 29</b>: Learn about try/catch/finally
-- <b>day 30</b>: 
-- <b>day 31</b>: 
-- <b>day 32 and 33</b>:
+- <b>day 27</b>: Learn about Jump - return.
+- <b>day 28</b>: Learn about jump - throw.
+- <b>day 29</b>: Learn about try/catch/finally.
+- <b>day 30</b>: Learn about Object.
+- <b>day 31</b>: Object with method.
+- <b>day 32 and 33</b>: Use try/catch/finally when divide by zero, to avoid the appearance of "infinity" with the message.

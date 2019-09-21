@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<form name="Form" onsubmit="return ReqField()">
+  <p style= "display: block;
+    text-align:center"> Email: </p> <input type="text" name="fname" style= "display: block;
+    margin-left: auto;
+    margin-right: auto"><br>
+  <input type="submit" value="Submit" style= "display: block;
+    margin-left: auto;
+    margin-right:auto">
+</form>
+<script>
+    var user1 = {
+            firstName: "Shahad",
+            lastName: "Mul",
+            major: "IT"
+        };
+
+        alert("Welcome" + " " + user1.firstName); // or alert("Welcome" + " " + user1["firstName"]);
+        
+  var user2 = {
+    username: "something219",
+    email: "something@something.com",
+    ErrorMessage: "Sorry this is required field"
+};
+  
+function ReqField() {
+  var x = document.forms["Form"]["fname"].value;
+  if (x == "") {
+    alert(user2.ErrorMessage);
+    return false;
+  }
+}
+</script>
+  </head>
+</body>
+</html>
