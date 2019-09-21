@@ -39,4 +39,4 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 29</b>: Learn about try/catch/finally.
 - <b>day 30</b>: Learn about Object.
 - <b>day 31</b>: Object with method.
-- <b>day 32 and 33</b>: Use try/catch/finally when divide by zero, to avoid the appearance of "infinity" with the message.
+- <b>day 32 and 33</b>: Use try/catch/finally when divid by zero, and to avoid the appearnce of "infinity" statement use any other statement.
