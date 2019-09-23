@@ -1,14 +1,22 @@
-var x = Number(prompt("Add number"));
-var z = 0;
-function DivisionZero(x, z) {
-    if (x / z ) document.write("You try to divide to zero!");
-    else throw "Sorry there is somthing wrong!";
+// Use try/catch/finally when divid by zero, and to avoid the appearnce of "infinity" statement use any other statement.
+
+var AddNum = Number(prompt("Add number"));
+var Zero = 0;
+try {
+    if (Zero === 0) {
+        throw ("Ops! you can't divide by zero!");
+    }
+    else {
+        var divide = AddNum / Zero;
+    }
 }
 
-try {
-    var tr = DivisionZero(x / z);
-    alert(tr);
-}
 catch (err) {
-    alert("Error has occurred!");
+    alert(err);
+}
+
+finally {
+    if (AddNum == "null" || AddNum == null || AddNum == "") {
+        alert("Sorry there is somthing wrong!");
+    }
 }
