@@ -44,7 +44,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 
 <b>Week 6 :</b>
 - <b>day 34</b>: Using "this" keyword.
-- <b>day 35</b>: basic of inheritance.
+- <b>day 35</b>: learn the basics about inheritance.
 - <b>day 36</b>: 
 - <b>day 37</b>: 
 - <b>day 38</b>: 
