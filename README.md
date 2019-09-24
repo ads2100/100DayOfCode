@@ -40,3 +40,12 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 30</b>: Learn about Object.
 - <b>day 31</b>: Object with method.
 - <b>day 32 and 33</b>: Use try/catch/finally when divid by zero, and to avoid the appearnce of "infinity" statement use any other statement.
+
+
+<b>Week 6 :</b>
+- <b>day 34</b>: Using "this" keyword.
+- <b>day 35</b>: 
+- <b>day 36</b>: 
+- <b>day 37</b>: 
+- <b>day 38</b>: 
+- <b>day 39 and 40</b>: 
