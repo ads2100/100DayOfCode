@@ -49,3 +49,21 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 37</b>: Testing Properties.
 - <b>day 38</b>: Property Getters and Setters.
 - <b>day 39 and 40</b>: 
+
+
+<b>Week 7 :</b>
+- <b>day 41</b>:
+- <b>day 42</b>: 
+- <b>day 43</b>: 
+- <b>day 44</b>: 
+- <b>day 45</b>: 
+- <b>day 46 and 47</b>: 
+
+
+<b>Week 8 :</b>
+- <b>day 48</b>:
+- <b>day 49</b>: 
+- <b>day 50</b>: 
+- <b>day 51</b>: 
+- <b>day 52</b>: 
+- <b>day 53 and 54</b>: 
