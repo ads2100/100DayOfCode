@@ -48,7 +48,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 36</b>: Deleting Properties.
 - <b>day 37</b>: Testing Properties.
 - <b>day 38</b>: Property Getters and Setters.
-- <b>day 39 and 40</b>: 
+- <b>day 39 and 40</b>: Create a program for teachers and assign each subject to its own teacher. The first way: create object with properties and assign the values ​​using getter & setter, the second way: create function with properties and assign the values ​​using inheritance .. now we have to notice what is the different between these two ways, which one is the easiest and the best to practice.
 
 
 <b>Week 7 :</b>
