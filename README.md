@@ -52,11 +52,11 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 
 
 <b>Week 7 :</b>
-- <b>day 41</b>:
-- <b>day 42</b>: 
-- <b>day 43</b>: 
-- <b>day 44</b>: 
-- <b>day 45</b>: 
+- <b>day 41</b>: The prototype Attribute.
+- <b>day 42</b>: Adding Properties to Property.
+- <b>day 43</b>: Arrays.
+- <b>day 44</b>: Creating Arrays.
+- <b>day 45</b>: Reading and Accessing elements.
 - <b>day 46 and 47</b>: 
 
 
