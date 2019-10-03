@@ -57,7 +57,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 43</b>: Arrays.
 - <b>day 44</b>: Creating Arrays.
 - <b>day 45</b>: Reading and Accessing elements.
-- <b>day 46 and 47</b>: 
+- <b>day 46 and 47</b>: write one array for graduated students and another array for GBA using double data type, then assign each student with their GBA in separate variables.
 
 
 <b>Week 8 :</b>
