@@ -61,9 +61,9 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 
 
 <b>Week 8 :</b>
-- <b>day 48</b>:
-- <b>day 49</b>: 
-- <b>day 50</b>: 
-- <b>day 51</b>: 
-- <b>day 52</b>: 
+- <b>day 48</b>: Array length.
+- <b>day 49</b>: Adding Array Elements
+- <b>day 50</b>: Deleting Array Elements
+- <b>day 51</b>: Iterating arrays.
+- <b>day 52</b>: Multidimensional array.
 - <b>day 53 and 54</b>: 
