@@ -68,5 +68,5 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 52</b>: Multidimensional array.
 - <b>day 53 and 54</b>: Senario: If i was responsible for the employees database, and I want to insert every employee with her/his job role and years of experience, now write a program that help me to enter this information.
 Then execute these two:
-1- I am responsible of reviewing the employees information and I want to display the employees that just have more than 3 years of experience, write a code that help me to read this information.
+1- I want to display the employees that just have more than 3 years of experience, write a code that help me to read this information.
 2- I want to delete employee Saad's information from the database because he left the company, write a code that help me to execute this change.
