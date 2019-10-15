@@ -9,8 +9,8 @@ console.log(numbers1);
 // or 
 
 numbers2 = []; 
-numbers.push('zero') // we add the first element to array
-numbers.push('one', 'two') // we add the second and the third element to array
+numbers2.push('zero') // we add the first element to array
+numbers2.push('one', 'two') // we add the second and the third element to array
 console.log(numbers2);
 
 // or 
