@@ -70,3 +70,16 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 Then execute these two:
 1- I want to display the employees that just have more than 3 years of experience, write a code that help me to read this information.
 2- I want to delete employee Saad's information from the database because he left the company, write a code that help me to execute this change.
+
+
+
+<b>Week 9 :</b>
+- <b>day 55</b>: Array methods 1.
+- <b>day 56</b>: Array methods 2.
+- <b>day 57</b>: Array methods 3.
+- <b>day 58</b>: Array methods 4.
+- <b>day 59</b>: Strings as arrays.
+- <b>day 60 and 61</b>: we have two arrays 
+var first = [1, 2, 3, 5, 8, 13];
+var second = [1, 2, 3, 4, 8, 13];
+Write a code that compares them and then returns the place and value of the difference in the second array.
