@@ -79,7 +79,7 @@ Then execute these two:
 - <b>day 57</b>: Array methods (toString - forEach).
 - <b>day 58</b>: Array methods
 - <b>day 59</b>: Strings as arrays
-- <b>day 60 and 61</b>: If we have two arrays 
+- <b>day 60 and 61</b>: If we have two arrays :
 var first = [1, 2, 3, 5, 8, 13];
 var second = [1, 2, 3, 4, 8, 13];
 Write a code that compares them and then returns the place and value of the difference in the second array.
