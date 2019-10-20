@@ -77,7 +77,7 @@ Then execute these two:
 - <b>day 55</b>: Array methods (join - reverse - sort - concat - slice).
 - <b>day 56</b>: Array methods (splice - push - pop - unshift - shift).
 - <b>day 57</b>: Array methods (toString - forEach).
-- <b>day 58</b>: Array methods
+- <b>day 58</b>: Array methods (map - filter - every & some - reduce & reduceRight - indexOf & lastIndexOf)
 - <b>day 59</b>: Strings as arrays
 - <b>day 60 and 61</b>: If we have two arrays :
 var first = [1, 2, 3, 5, 8, 13];

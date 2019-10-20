@@ -30,11 +30,11 @@
             document.write("<tr>" + "<td>" + Employee[i] + "</td>" + "<td>" + JobRole[i] + "</td>" + "<td>" + Experience[i] + "</td>" + "</tr>")
         }
         document.write("</table>")
-        
-        
-        
+
+
+
         // I am responsible of reviewing the employees information and I want to display the employees that just have more than 3 years of experience, write a code that help me to read this information.
-        
+
         document.write("<h2> Employees that have more than 3 years of experience: </h2>")
         document.write("<table>")
         document.write("<tr><th> Employee:  </th><th> Job Role: </th><th>Experience: </th</tr>")
@@ -45,11 +45,12 @@
             }
         }
         document.write("</table>")
+        document.getElementById("Table").Employee;
 
 
 
         // I want to delete employee Saad's information from the database because he left the company, write a code that help me to execute this change.
-        
+
         document.write("<h2> Afteer deleting Saad's information</h2>")
 
         document.write("<table>")
@@ -57,10 +58,13 @@
 
 
         for (var i = 0; i < Employee.length && JobRole.length && Experience.length; i++) {
-            if (Employee[i] !== "Saad") {
-                document.write("<tr>" + "<td>" + Employee[i] + "</td>" + "<td>" + JobRole[i] + "</td>" + "<td>" + Experience[i] + "</td>" + "</tr>");
+            if (Employee[i] === "Saad") {
+                Employee.splice(i, 1);
             }
+            document.write("<tr>" + "<td>" + Employee[i] + "</td>" + "<td>" + JobRole[i] + "</td>" + "<td>" + Experience[i] + "</td>" + "</tr>");
         }
+
+
         document.write("</table>")
     </script>
 </body>
