@@ -89,7 +89,7 @@ Write a code that compares them and then returns the place and value of the diff
 <b>Week 10 :</b>
 - <b>day 62</b>: Learn more about function.
 - <b>day 63</b>: Continue learn more about functions.
-- <b>day 64</b>: Learn about call.
-- <b>day 65</b>: 
-- <b>day 66</b>: 
-- <b>day 67 and 68</b>:
+- <b>day 64</b>: Learn about call method.
+- <b>day 65</b>: Learn about apply method.
+- <b>day 66</b>: Learn the basic about javaScript closures.
+- <b>day 67 and 68</b>: Search about memorization functions and use it to return value from memory. 
