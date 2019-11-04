@@ -66,7 +66,7 @@ This repo is for my 100DayOfCoding Challenge with Saudi Initiative for Developer
 - <b>day 50</b>: Deleting Array Elements
 - <b>day 51</b>: Iterating arrays.
 - <b>day 52</b>: Multidimensional array.
-- <b>day 53 and 54</b>: Senario: If i was responsible for the employees database, and I want to insert every employee with her/his job role and years of experience, now write a program that help me to enter this information.
+- <b>day 53 and 54</b>: Scenario: If i was responsible for the employees database, and I want to insert every employee with her/his job role and years of experience, now write a program that help me to enter this information.
 Then execute these two:
 1- I want to display the employees that just have more than 3 years of experience, write a code that help me to read this information.
 2- I want to delete employee Saad's information from the database because he left the company, write a code that help me to execute this change.
@@ -93,3 +93,13 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 65</b>: Learn about apply method.
 - <b>day 66</b>: Learn the basic about javaScript closures.
 - <b>day 67 and 68</b>: Search about memorization functions and use it to return value from memory. 
+
+
+
+<b>Week 11 :</b>
+- <b>day 69</b>: some ways of using client-Side javaScript.
+- <b>day 70</b>: JavaScript in web documents.
+- <b>day 71</b>: Timers method.
+- <b>day 72</b>: Opening and closing windows.
+- <b>day 73</b>: Dialog boxes.
+- <b>day 74 and 75</b>: Write a code giving the user two options through the dialog boxes to either open a new window or a new page (new tab) for the site.

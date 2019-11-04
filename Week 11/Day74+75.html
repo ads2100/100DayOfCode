@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+
+<body>
+<style>
+    *{
+  text-align: center;
+  
+}
+#text{
+color: grey;
+}
+#myDialog{
+width: 500px;
+  hight: 500px;
+  text-align: center;
+}
+</style>
+    <p id="text">
+        <b>Click the button to show the dialog
+            <b/>
+    </p>
+
+    <button onclick="myFunction()">Show dialog</button>
+
+    <dialog id="myDialog">choose one option:
+        <br>
+        <br/>
+        <button onclick="newTab()">New tab
+            <script> window.open("https://saudidev.org")</script>
+        </button>
+        <br>
+        <br/>
+        <button onclick="newWindow()">New window</button>
+    </dialog>
+
+    <script>
+        function myFunction() {
+            document.getElementById("myDialog").showModal();
+        }
+        function newTab() {
+            window.open("https://saudidev.org")
+        }
+        function newWindow() {
+            window.open("", "myWindow", "width=1000, height=500");
+        }
+    </script>
+
+</body>
+
+</html>
