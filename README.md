@@ -103,3 +103,13 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 72</b>: Opening and closing windows.
 - <b>day 73</b>: Dialog boxes.
 - <b>day 74 and 75</b>: Write a code giving the user two options through the dialog boxes to either open a new window or a new page (new tab) for the site.
+
+
+
+<b>Week 12 :</b>
+- <b>day 76</b>: 
+- <b>day 77</b>: 
+- <b>day 78</b>: 
+- <b>day 79</b>: 
+- <b>day 80</b>: 
+- <b>day 81 and 82</b>: 
