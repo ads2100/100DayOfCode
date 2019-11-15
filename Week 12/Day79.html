@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <!-- Note that the <li> elements inside <ul> are not indented (whitespaces).
+If they were, the first child node of <ul> would be a text node
+-->
+
+<!-- if we want to remove on of the element we use removeChild-->
+    <ul id="myList">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+    <p>Click the button to remove the first item from the list.</p>
+    <button onclick="myFunction()">Try it</button>
+    <script>
+        function myFunction() {
+            for(let n=0 ; n <= Element.length ; n++){
+            var list = document.getElementById("myList");
+            list.removeChild(list.childNodes[n]);
+            }
+        }
+    </script>
+    
+    <!-- another example 
+    if we want to remove all the elements in the same time -->
+    
+    <ul id="myList1">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+    <p>Click the button to remove all child nodes of ul.</p>
+    <button onclick="myFunction1()">Try it</button>
+    <script>
+        function myFunction1() {
+            var list = document.getElementById("myList1");
+            while (list.hasChildNodes()) {
+                list.removeChild(list.firstChild);
+            }
+        }
+    </script>
+</body>
+
+</html>

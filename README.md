@@ -107,9 +107,9 @@ Write a code that compares them and then returns the place and value of the diff
 
 
 <b>Week 12 :</b>
-- <b>day 76</b>: 
-- <b>day 77</b>: 
-- <b>day 78</b>: 
-- <b>day 79</b>: 
-- <b>day 80</b>: 
-- <b>day 81 and 82</b>: 
+- <b>day 76</b>: Understand the concept of Document Object Model (DOM).
+- <b>day 77</b>: Creating Nodes.
+- <b>day 78</b>: Inserting Nodes.
+- <b>day 79</b>: Removing and Replacing Nodes.
+- <b>day 80</b>: scroll Property.
+- <b>day 81 and 82</b>: use elementFromPoint and explain its usefulness.

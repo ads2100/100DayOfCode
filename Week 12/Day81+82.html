@@ -1,0 +1,25 @@
+<!-- The elementFromPoint method can be useful when you get the mouse coordinates through the event object.
+If the element at the specified point belongs to another document (for example, the document of an <iframe>), 
+that document's parent element is returned (the <iframe> itself). If the element at the given point is anonymous or XBL generated content, 
+such as a textbox's scroll bars, then the first non-anonymous ancestor element (for example, the textbox) is returned. -->
+   
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>elementFromPoint مثال</title>
+
+<script>
+function changeColor(newColor) {
+  elem = document.elementFromPoint(2, 2);
+  elem.style.color = newColor;
+}
+</script>
+</head>
+
+<body>
+<p id="para1">محتوى نصيّ</p>
+<button onclick="changeColor('blue');">أزرق</button>
+<button onclick="changeColor('red');">أحمر</button>
+</body>
+</html>

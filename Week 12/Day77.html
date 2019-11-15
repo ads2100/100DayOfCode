@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+    <html>
+        <body>
+            <p>Click the button to create a h1 element with some text.</p>
+            <button onclick="myFunction3()">Try it</button>
+            <script>
+                function myFunction3() {
+                var h = document.createElement("h1");
+                var t = document.createTextNode("Hello World");
+                h.appendChild(t);
+                document.body.appendChild(h);
+                }
+                </script>
+                
+                <!-- another example -->
+                <p>Click the button to make changes to a list item, using the createDocumentFragment method, then appending the list item as
+                    the last child of the list.</p>
+                <ul>
+                    <li>Coffee</li>
+                    <li>Tea</li>
+                </ul>
+                <button onclick="myFunction2()">Try it</button>
+                <script>
+                    function myFunction2() {
+                        var d = document.createDocumentFragment();
+                        d.appendChild(document.getElementsByTagName("LI")[0]);
+                        d.childNodes[0].childNodes[0].nodeValue = "Milk";
+                        document.getElementsByTagName("UL")[0].appendChild(d);
+                    }
+                </script>
+                
+                <!-- another example -->
+                <iframe src="https://www.w3schools.com" style="height:380px;width:520px;"></iframe>
+                <p>Click the "Try it" button to get and display the value of the first H1 element in the iframe (another document).</p>
+                <p>
+                    <strong>Note:</strong> Internet explorer 8 and earlier does not support the importNode() method.</p>
+                <button onclick="myFunction1()">Try it</button>
+                <script>
+                    function myFunction1() {
+                
+                        var frame = document.getElementsByTagName("IFRAME")[0]
+                        var h = frame.contentWindow.document.getElementsByTagName("P")[0];
+                        var x = document.importNode(h, true);
+                        document.body.appendChild(x);
+                    }
+                </script>
+        </body>
+    </html>
