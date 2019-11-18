@@ -113,3 +113,13 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 79</b>: Removing and Replacing Nodes.
 - <b>day 80</b>: scroll Property.
 - <b>day 81 and 82</b>: use elementFromPoint and explain its usefulness.
+
+
+
+<b>Week 13 :</b>
+- <b>day 83</b>: Learn about Javascript Events.
+- <b>day 84</b>: Onmouseover and Onmouseout Events.
+- <b>day 85</b>: Touchscreen and Mobile Events.
+- <b>day 86</b>: 
+- <b>day 87</b>: 
+- <b>day 88 and 89</b>: 

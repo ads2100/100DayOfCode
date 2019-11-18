@@ -1,0 +1,49 @@
+<!-- onclick Event Type -->
+<html>
+
+<head>
+    <!-- example 1 -->
+    <script type="text/javascript"> 
+    function sayHello() {
+         alert("Hello World") 
+         }  </script> 
+         </head>
+
+<body>
+    <p>Click the following button and see result</p>
+    <form>
+        <input type="button" onclick="sayHello()" value="Say Hello" /> </form>
+        
+        
+        
+        <!-- example 2 -->
+      <p>Click the button to display the date.</p>
+    
+    <button onclick="displayDate()">The time is?</button>
+    
+    <script>
+        function displayDate() {
+            document.getElementById("demo").innerHTML = Date();
+        }
+    </script>
+    
+    <p id="demo"></p>
+    <h1 onclick="this.innerHTML='It works!'">Click on this text!</h1>
+
+    
+    <!-- example 3 -->
+    <script>
+        function myFunction() {
+            var x = document.getElementById("fname");
+            x.value = x.value.toUpperCase();
+        }
+    </script>
+    </head>
+    <body>
+        Enter your name:
+        <input type="text" id="fname" onchange="myFunction()">
+    
+        <p>when you enter a name it will transforms the input text to upperCase.</p>
+</body>
+
+</html>
