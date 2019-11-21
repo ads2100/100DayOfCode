@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<br>
+<!-- Event Cancellation -->
+<body>
+    <b>Try to check this box:</b>
+    <br><input type="checkbox" id="myCheckbox"></body></br>
+    <p>Toggling a checkbox is the default action of clicking on a checkbox. The preventDefault() method prevents this from happening.</p>
+    <script>
+        document.getElementById("myCheckbox").addEventListener("click", function (event) {
+            event.preventDefault()
+        });
+    </script>
+    
+    <br> </br>
+    
+    <p><b> Now try to click on the url:</b></p>
+        Go to <a id="URL" href="www.google.com"> google.com </a> 
+    <script>
+        document.getElementById("URL").addEventListener("click", function (event) {
+            event.preventDefault()
+        });
+    </script>
+</body>
+
+</html>

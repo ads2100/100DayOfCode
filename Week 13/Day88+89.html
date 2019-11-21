@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<!-- mousedown and mouseup events-->
+<body>
+
+    <p id="x1" onmousedown="mouseDown()" onmouseup="mouseUp()">
+        Click the text! The mouseDown() function is triggered when the mouse button is pressed down over this paragraph, and sets
+        the background of the text to purple. The mouseUp() function is triggered when the mouse button is released, and sets the
+         background of the text to green.
+    </p>
+
+    <script>
+        function mouseDown() {
+            document.getElementById("x1").style.background = "purple";
+        }
+
+        function mouseUp() {
+            document.getElementById("x1").style.background = "green";
+        }
+    </script>
+
+</body>
+
+</html>
