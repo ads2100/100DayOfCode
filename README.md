@@ -120,6 +120,6 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 83</b>: Learn about Javascript Events.
 - <b>day 84</b>: Onmouseover and Onmouseout Events.
 - <b>day 85</b>: Touchscreen and Mobile Events.
-- <b>day 86</b>: 
-- <b>day 87</b>: 
-- <b>day 88 and 89</b>: 
+- <b>day 86</b>: Learn about addEventListener.
+- <b>day 87</b>: Learn about Event Cancellation.
+- <b>day 88 and 89</b>: Try to use mousedown and mouseup events.
