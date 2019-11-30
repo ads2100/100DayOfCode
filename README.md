@@ -129,8 +129,8 @@ Write a code that compares them and then returns the place and value of the diff
 <b>Week 14 :</b>
 - <b>day 90</b>: use URL searchParams.
 - <b>day 91</b>: Learn how to go back and go forward in the page.
-- <b>day 92</b>:
-- <b>day 93</b>:
-- <b>day 94</b>: 
+- <b>day 92</b>: Navigator.
+- <b>day 93</b>: Timing Events.
+- <b>day 94</b>: Cookies.
 - <b>day 95 and 96</b>: 
 

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p>Click "Try it". Wait 3 seconds, and the page will alert "Hello".</p>
+    <button onclick="setTimeout(myFunction1, 3000);">Try it</button>
+    <script>
+        function myFunction1() {
+            alert('Hello');
+        }
+    </script>
+    
+    <!-- we use clearTimeout if we want to stop it-->
+    <p>Click "Try it". Wait 3 seconds. The page will alert "Hello".</p>
+<p>Click "Stop" to prevent the first function to execute.</p>
+<p>(You must click "Stop" before the 3 seconds are up.)</p>
+<button onclick="myVar = setTimeout(myFunction2, 3000)">Try it</button>
+<button onclick="clearTimeout(myVar)">Stop it</button>
+<script>
+function myFunction2() {
+alert("Hello");
+}
+  </script>
+  
+  <p>A script on this page starts this clock:</p>
+<p id="demo"></p>
+<button onclick="clearInterval(myVar)">Stop time</button>
+<script>
+    var myVar = setInterval(myTimer, 1000);
+    function myTimer() {
+        var d = new Date();
+        document.getElementById("demo").innerHTML = d.toLocaleTimeString();
+    }
+</script>
+</body>
+
+</html>
