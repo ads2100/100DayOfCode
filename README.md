@@ -132,5 +132,5 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 92</b>: Navigator.
 - <b>day 93</b>: Timing Events.
 - <b>day 94</b>: Cookies.
-- <b>day 95 and 96</b>: 
+- <b>day 95 and 96</b>: Write example to set parameter to url.
 
