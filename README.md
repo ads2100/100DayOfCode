@@ -134,3 +134,12 @@ Write a code that compares them and then returns the place and value of the diff
 - <b>day 94</b>: Cookies.
 - <b>day 95 and 96</b>: Write example to set parameter to url.
 
+
+
+<b>Week 15 :</b>
+- <b>day 97</b>: localStorage & sessionStorage.
+- <b>day 98</b>: Web Workers.
+- <b>day 99</b>: Server-Sent Events.
+- <b>day 100</b>: Using Geolocation methods.
+
+

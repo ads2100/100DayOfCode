@@ -1,10 +1,11 @@
+
 var url = new URL('http://demourl.com/path?id=100&topic=main');
 
 var query_string = url.search;
 
 var search_params = new URLSearchParams(query_string);
 
-search_params.append('id', '101');
+search_params.append('nam', '101');
 
 search_params.append('id', '102');
 
